@@ -25,7 +25,7 @@ This is a **community-only repository** for:
 - ❓ **Questions** - Need help using the MCP server?
 - 💬 **Discussions** - Connect with other users
 - 📚 **Documentation** - Find usage examples and guides
-- 😍 **Help me ou** - If the right person comes along that wants to help I'm open to a collab
+- 😍 **Help me out** - If the right person comes along that wants to help I'm open to a collab
 
 ## ⚠️ Important Note
 
