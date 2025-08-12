@@ -123,7 +123,7 @@ Found something broken? [Open an issue](../../issues/new) with:
 
 ### Requesting Features
 
-Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/noaa-free-community/discussions/new?category=ideas) or [open an issue](../../issues/new) describing:
+Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/noaa-free-community/discussions/new?category=ideas) describe:
 
 - What you'd like to see added
 - Why it would be useful
@@ -131,7 +131,7 @@ Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/no
 
 ### Asking Questions
 
-Not sure how something works? Check the [Discussions](https://github.com/BryanCE/noaa-free-community/discussions) section or [start a new discussion](https://github.com/BryanCE/noaa-free-community/discussions/new).
+Not sure how something works? Check the [Discussions](https://github.com/BryanCE/noaa-free-community/discussions/new) section or [start a new discussion](https://github.com/BryanCE/noaa-free-community/discussions/new).
 
 Not sure how something works? Check the [Discussions](../../discussions) section or open a new discussion thread.
 
