@@ -76,7 +76,7 @@ Use the command `noaa-free-mcp` or the full path to the installed binary.
 
 ## 🛠️ Usage
 
-The server provides two main tools:
+The server provides two main tools (More coming soon):
 
 ### 1. Get Daily Rain Data
 
@@ -123,7 +123,7 @@ Found something broken? [Open an issue](../../issues/new) with:
 
 ### Requesting Features
 
-Have an idea for improvement? [Start a discussion](../../discussions) or [open an issue](../../issues/new) describing:
+Have an idea for improvement? [Open an issue](../../issues/new) describing:
 
 - What you'd like to see added
 - Why it would be useful
