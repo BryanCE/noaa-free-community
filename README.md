@@ -131,9 +131,7 @@ Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/no
 
 ### Asking Questions
 
-Not sure how something works? Post here for help [Discussions](https://github.com/BryanCE/noaa-free-community/discussions/2) section or [start a new discussion](https://github.com/BryanCE/noaa-free-community/discussions/new).
-
-Not sure how something works? Check the [Discussions](../../discussions) section or open a new discussion thread.
+Not sure how something works? Post [Here](https://github.com/BryanCE/noaa-free-community/discussions/2) for help.
 
 ## 📊 Package Stats
 
