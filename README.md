@@ -123,7 +123,7 @@ Found something broken? [Open an issue](../../issues/new) with:
 
 ### Requesting Features
 
-Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/noaa-free-community/discussions/ideas) or [open an issue](../../issues/new) describing:
+Have an idea for improvement? [Start a discussion](https://github.com/BryanCE/noaa-free-community/discussions/new) or [open an issue](../../issues/new) describing:
 
 - What you'd like to see added
 - Why it would be useful
